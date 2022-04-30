@@ -1,1 +1,0 @@
-# hw10_gr-number16
